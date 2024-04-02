@@ -1,0 +1,21 @@
+name: DSML_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - jupyterlab
+  - numpy
+  - scikit-learn
+  - pandas
+  - geopandas
+  - matplotlib
+  - seaborn
+  - scienceplots
+  - xgboost
+  - scipy
+  - pip
+  - pip:
+    - aquarel
+
+prefix: /<specify path>/envs/DSML_env
