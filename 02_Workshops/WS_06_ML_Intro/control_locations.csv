@@ -1,0 +1,68 @@
+location_id,speed_limit,district,street
+1,50,01   Bundesstraße 55a         ,Frankfurter Straße vor Tunnel 
+2,80,02   Bundesstraße 55a         ,Höhe Waldecker Straße         
+3,80,03   Zoobrücke                ,Höhe Auenweg                  
+4,80,04   Zoobrücke                ,Strommitte                    
+5,60,05   Zoobrücke                ,Höhe Amsterdamer Straße       
+6,50,06   Innere Kanalstraße       ,Höhe Finanzamt Köln-Nord      
+7,50,07   Innere Kanalstraße       ,Höhe Escher Straße / Hornstr. 
+8,50,08   Innere Kanalstraße       ,Höhe Hornstr. / Escher Straße 
+9,50,09   Innere Kanalstraße       ,Höhe Finanzamt Köln-Nord      
+10,50,10   Innere Kanalstraße       ,in Höhe Lentstraße            
+11,50,11   Severinsbrücke           ,                              
+12,80,12   Zoobrücke                ,Höhe Strommitte               
+13,80,13   Zoobrücke                ,Höhe Auenweg                  
+14,50,14   Riehl                    ,"An der Schanz, Höhe Haus Nr.2 "
+15,50,15   Bundesstraße 55 a        ,Abfahrt Köln-Kalk             
+16,50,16   Aachener Straße          ,Höhe Aachener Weiher geg.130  
+17,50,17   Aachener Straße          ,Höhe Aachener Weiher          
+23,30,23   Chorweiler               ,Willi-Suth-Allee              
+24,30,24   Chorweiler               ,Willi-Suth-Allee              
+25,50,25   Riehl                    ,Boltensternstraße in Höhe SBK 
+26,50,26   Riehl                    ,Boltensternstraße in Höhe SBK 
+27,30,27   Bilderstöckchen          ,Escher Straße Höhe Haus-Nr.154
+28,30,28   Bilderstöckchen          ,Escher Straße ggü. Haus-Nr.146
+29,50,29   Holweide                 ,Bergisch Gladbacher Straße    
+30,50,30   Godorf                   ,"Godorfer Hauptstr., Höhe Otto-"
+31,30,31   Holweide                 ,Neufelder Straße              
+32,30,32   Müngersdorf              ,"Wendelinstraße, Höhe Schule   "
+33,30,33   Neubrück                 ,"Europaring, Höhe Haus Nr.7    "
+34,70,34   Zollstock                ,Militärringstraße             
+35,50,35   Raderthal                ,"Raderthalgürtel, Höhe Lat.28  "
+36,30,36   Höhenhaus                ,"Honschaftsstraße, Höhe Schule "
+37,30,37   Bilderstöckchen          ,Schiefersburger Weg ggü. Hs 40
+38,30,38   Vogelsang                ,Vogelsanger Straße            
+39,30,39   Brück                    ,Brücker Mauspfad              
+40,30,40   Bilderstöckchen          ,Schiefersburger Weg ggü. Hs 40
+41,30,41   Dellbrück                ,Paffrather Str. Höhe Hs-Nr. 34
+42,30,42   Dellbrück                ,Paffrather Str. Höhe Hs-Nr. 34
+43,50,43   Buchheim                 ,Herler Ring Höhe Laterne Nr.15
+44,50,44   Buchheim                 ,Herler Ring Höhe Laterne Nr.15
+45,50,45   Dellbrück                ,Berg.-Gladbacher Str. 837-835 
+46,50,46   Dellbrück                ,Berg.-Gladbacher Str. 837-835 
+47,30,47   Bilderstöckchen          ,Geldernstraße 63 Laterne Nr.42
+48,30,48   Bilderstöckchen          ,Geldernstraße 63 Laterne Nr.42
+49,50,49   Neuehrenfeld             ,"Äußere Kanalstraße, Laterne 88"
+50,50,50   Neuehrenfeld             ,"Äußere Kanalstraße, Laterne 88"
+51,30,51   Bilderstöckchen          ,Escher Straße Haus-Nr. 152-154
+52,30,52   Bilderstöckchen          ,Escher Straße Haus-Nr. 152-154
+53,30,53   Bilderstöckchen          ,Schiefersburger Weg 40        
+54,30,54   Bilderstöckchen          ,Schiefersburger Weg 40        
+55,60,55   Eil                      ,Heumarer Mauspf.Höhe Hirschgr.
+56,60,56   Eil                      ,Heumarer Mauspf.Höhe Hirschgr.
+57,50,57   Gremberghoven            ,Frankfurter Straße Höhe S-Bahn
+58,50,58   Gremberghoven            ,Frankfurter Straße Höhe S-Bahn
+60,30,60   Neustadt/Nord            ,Kaiser-Wilhelm-Ring 17-21     
+61,30,61   Neustadt/Nord            ,Kaiser-Wilhelm-Ring 27-29     
+62,30,62   Neustadt/Nord            ,Hansaring 52                  
+63,30,63   Mülheim                  ,Auenweg 173                   
+64,30,64   Mülheim                  ,Auenweg 173                   
+97,60,"97   BAB 1, km 407,075 (MQ1)  ",Rheinbrücke                   
+98,60,"98   BAB 1, km 406,750 (MQ2)  ","Rheinbrücke, Strommitte       "
+99,0,"99   BAB 3, km 0,85           ",AS Königsforst / AK Köln-Ost  
+971,60,"971  BAB 1, km 407,075 (MQ1)  ",Rheinbrücke in Höhe Rheinauen 
+972,60,"972  BAB 1, km 407,075 (MQ1)  ",Rheinbrücke in Höhe Rheinauen 
+973,60,"973  BAB 1, km 407,075 (MQ1)  ",Rheinbrücke in Höhe Rheinauen 
+981,60,"981  BAB 1, km 406,750 (MQ2)  ","Rheinbrücke, Strommitte       "
+982,60,"982  BAB 1, km 406,750 (MQ2)  ","Rheinbrücke, Strommitte       "
+983,60,"983  BAB 1, km 406,750 (MQ2)  ","Rheinbrücke, Strommitte       "
